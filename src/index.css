@@ -14,18 +14,18 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #2c3a47;
+  background-color: #DAF7A6;
 }
 .digital-clock{
   width: 400px;
-  background-color: #fff;
+  background-color: #A81111;
   padding: 20px;
   border-radius: 4px;
   text-align: center;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 h1{
-  color: orangered;
+  color: #A6F7EB;
   font-weight: 600;
   font-size: 40px;
   margin-bottom: 15px;
@@ -34,8 +34,10 @@ h1{
   margin-bottom: 15px;
   font-size: 50px;
   font-weight: 700;
+  color: #ffff;
 }
 .date{
-  color: #888;
+  color: #1DE8F7;
   font-size: 20px;
+  font-weight: 500;
 }
